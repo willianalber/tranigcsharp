@@ -1,0 +1,6 @@
+- 1 e 1 é 11
+	- partindo que o 1 pode estar presente em unidadades, dezenas, centenas, milhares e assim por diante
+	- partindo tambem que o 1 é um caracter como qualquer outro, não necessariamento seja de um valor numérico.
+-Como o 1 está apos o outro ligado com operador lógico 
+	- então o 1 pode ser concatenado com o outro 1
+	- resultando assim em uma concatenação de caracters que pode ser lido como 11
